@@ -2,14 +2,10 @@
 
 A simple compiler for a toy language.
 
-<br />
-
 ## Authors
 
 Oussama Mater <br />
 Bochra Menchaoui
-
-<br /><br />
 
 ## Installation && Usage
 
